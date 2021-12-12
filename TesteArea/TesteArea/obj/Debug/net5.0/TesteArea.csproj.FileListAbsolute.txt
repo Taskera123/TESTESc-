@@ -1,0 +1,16 @@
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.exe
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.deps.json
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.runtimeconfig.json
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.runtimeconfig.dev.json
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.dll
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\ref\TesteArea.dll
+E:\projetos\TesteArea\TesteArea\bin\Debug\net5.0\TesteArea.pdb
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.csproj.AssemblyReference.cache
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.AssemblyInfoInputs.cache
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.AssemblyInfo.cs
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.csproj.CoreCompileInputs.cache
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.dll
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\ref\TesteArea.dll
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.pdb
+E:\projetos\TesteArea\TesteArea\obj\Debug\net5.0\TesteArea.genruntimeconfig.cache
